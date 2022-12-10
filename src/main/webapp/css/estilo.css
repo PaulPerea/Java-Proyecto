@@ -1,0 +1,44 @@
+main{
+    width: 95%;
+    height:auto;
+    margin-left:3%;
+    margin-right:3%;
+    margin-top: 10px;
+    float:left;
+    background-color:rgb(197, 255, 195);
+    border-radius:20px;
+}
+
+
+header img{
+	margin: 0px 0px;
+	vertical-align: top;
+}
+header div{
+	background-color: white;
+}
+#divsocial{
+    width:100%;
+    height:auto;
+    text-align: right;
+}
+.social{
+    width: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+video{
+	width: 100%;
+}
+#tabla{
+    margin-top: 40 px;
+    margin-left: 7cm;
+    margin-bottom: 150px;
+    text-align: center;
+}
+#tabla,table,tr>td{
+    color:rgb(16, 2, 97);
+}
+h1{
+    text-align: justify;
+}
